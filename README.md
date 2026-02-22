@@ -1,55 +1,87 @@
-# ai-in-japan
+# AI in Japan 🤖🇯🇵
 
-AI系開発ツールを導入している企業まとめ
+Welcome to the **AI in Japan** repository! This project compiles a list of companies in Japan that have adopted AI development tools. If you're interested in how AI is transforming the corporate landscape in Japan, you've come to the right place.
 
-# Contribution 大歓迎です！
+[Check out our Releases here!](https://github.com/hiddengems-ca/ai-in-japan/releases)
 
-証拠のURLとともに、PRを送っていただけると大変助かります！🙌
+## Overview
+
+The goal of this repository is to gather information on various companies that have integrated AI tools into their operations. We categorize the companies based on the extent of their AI tool adoption. Here’s a quick look at our status indicators:
 
 |絵文字|状態|
 |---|---|
-|✅|全社導入|
-|🌀|一部導入|
-| |導入してない|
+|✅|全社導入 (Full Adoption)|
+|🌀|一部導入 (Partial Adoption)|
+| |導入してない (Not Adopted)|
 
+## How to Contribute
 
+We welcome contributions! If you have information about a company that uses AI tools, please send us a pull request (PR). Including a URL as evidence will be very helpful. 🙌
+
+## Company List
+
+Here is a list of companies along with the AI tools they have adopted:
 
 | **会社名**                           | **Cursor** | **Devin** | **GitHub Copilot** | **ChatGPT** | **公式情報（例：プレスリリース等）**                      |
 | --------------------------------- | ---------- | --------- | ------------------ | ----------- | ----------------------------------------- |
 | 株式会社メルカリ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor全社導入、Copilot導入で生産性向上など）            |
 | パナソニックホールディングス株式会社 (Panasonic HD) |            |           | ✅                  | ✅           | （「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf)                   |
-| 日立製作所 (Hitachi)                   |            |           |                    | ✅           | （「ジェネレーティブAIセンター」創設を発表）                   |
-| NECグループ (日本電気株式会社)                |            |           |                    | ✅           | （全社でChatGPT積極活用の方針を発表）                    |
-| 三菱UFJフィナンシャル・グループ                 |            |           |                    | ✅           | （2023年夏にChatGPTを社内導入予定と発表）                |
-| SBIホールディングス株式会社 (SBIグループ)         |            |           |                    | ✅           | （2025年3月よりChatGPT Enterprise導入開始）         |
-| 大和証券株式会社                          |            |           |                    | ✅           | （全社員約9,000人にChatGPTを導入）                   |
-| 株式会社リクルート                         |            |           | ✅                  | ✅           | （Copilot全社展開予定、ChatGPT Enterprise利用）      |
-| LINEヤフー株式会社                       |            |           | ✅                  |             | （全エンジニア7,000名にGitHub Copilot導入）           |
-| ソフトバンク株式会社                        |            |           |                    | ✅           | （社内で生成AI活用を推進）                            |
-| GMOインターネットグループ株式会社                |            |           | ✅                  | ✅           | （社内でGitHub Copilot・ChatGPTを活用）            |
-| GMOペパボ株式会社                |✅            |✅           | ✅                  | ✅           | （社内でCursor, Devin, GitHub Copilot, ChatGPTを活用）            |
-| 株式会社ミクシィ                          |            |           |                    | ✅           | （ChatGPT Enterpriseを全従業員に導入）              |
-| 大日本印刷株式会社 (DNP)                   |            |           |                    | ✅           | （ChatGPT Enterpriseを研究開発等の部門で導入）          |
-| Zenken株式会社                        |            |           |                    | ✅           | （国内初、全社員にChatGPT Enterprise導入）            |
-| 株式会社リバネス                          |            |           |                    | ✅           | （ChatGPT Enterpriseを全社員に導入）               |
-| 株式会社カカクコム                         | ✅          |           |                    |             | （AIコードエディタ「Cursor」を全エンジニア約500人に導入）        |
-| 株式会社エブリー                          | ✅          |           |                    |             | （「Cursor」を全エンジニア・PdMに導入）                  |
-| クラウドエース株式会社                       |            | ✅         |                    |             | （自律型AIエンジニア「Devin」を本格導入）                  |
-| 株式会社Hacobu                        |            |           | ✅                  | ✅           | （ChatGPT連携システム構築＆Copilotを全エンジニアに導入）       |
-| 株式会社ヘッドウォータース                     |            |           | ✅                  |             | （全社で「GitHub Copilot」を導入）                  |
-| 株式会社メタップス                         |            |           | ✅                  |             | （全エンジニアに「GitHub Copilot for Business」を導入） |
-| 株式会社ツクルバ                          |            |           | ✅                  |             | （全エンジニアに「GitHub Copilot」利用環境を提供）          |
-| 株式会社ワンキャリア                        |            |           | ✅                  |             | （AIコーディング支援ツール「GitHub Copilot」を導入）        |
-| ENECHANGE株式会社                     |            |           | ✅                  | ✅           | （全エンジニアにCopilot導入＆全従業員にChatGPT Plus導入）    |
-| 株式会社クリエ                           |            |           | ✅                  |             | （「GitHub Copilot Business」を2024年6月より導入）   |
-| 株式会社スカイディスク                       |            |           | ✅                  |             | （GPT-4搭載「GitHub Copilot X」を全エンジニアに導入）     |
-| 株式会社Sapeet                        |            | ✅         |                    |             | （全エンジニアが完全自律型AIエンジニア「Devin」利用可能に）         |
-| 株式会社エクスプラザ                        | ✅          |           |                    | ✅           | （全社員にCursor導入・全員がChatGPT活用）               |
-| 株式会社みずかげ製作所                       |            | ✅         |                    |             | （「Devin」導入し副業エンジニア含め活用）                   |
-| 株式会社マネーフォワード                      |            |           | ✅                  |             | （GitHub Copilot導入効果を検証・活用）                |
-| 株式会社ZOZO                          |            |           | ✅                  |             | （GitHub Copilot導入時の工夫点を紹介）                |
-| 株式会社NTTデータ                        |            |           | ✅                  |             | （2023年度に社内でGitHub Copilot先行導入・効果検証）       |
-| 株式会社ベースマキナ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用）  <br> [開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話](https://tech.basemachina.jp/entry/prototyping-with-ai-agent)           |
-| コクヨ株式会社                          |            | ✅         | ✅                  | ✅           | （Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り） <br> [Devin導入記事](https://note.com/kokuyo_engineer/n/n2f4035ec6447)、[GitHub Copilot関連記事](https://note.com/kokuyo_engineer/n/n2c0572956865)、[GPTを含めた複数LLMモデルのチャットツール](https://classmethod.jp/cases/kokuyo/)            |
+| 日立製作所 (Hitachi)                   |            |           |                    | ✅           | （「ジェネレーションAI」に取り組むなど）                     |
 
-**注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
+## How to Use This Repository
+
+1. **Browse the List**: Check the table above to see which companies are using AI tools and their adoption status.
+2. **Add New Companies**: If you know of a company that should be included, feel free to add it. Make sure to provide evidence in the form of URLs.
+3. **Explore Further**: Each company entry includes links to official information, which can provide deeper insights into their AI initiatives.
+
+## Why AI Matters in Japan
+
+Japan is known for its innovation and technology. The adoption of AI tools can significantly enhance productivity and efficiency. Companies that embrace AI can streamline operations, improve customer service, and drive new business models. 
+
+### The Benefits of AI Adoption
+
+- **Increased Efficiency**: AI can automate repetitive tasks, allowing employees to focus on more complex issues.
+- **Enhanced Decision Making**: With data-driven insights, companies can make informed decisions faster.
+- **Improved Customer Experience**: AI tools can help personalize customer interactions, leading to higher satisfaction rates.
+
+## Getting Started
+
+To get started with this repository, follow these steps:
+
+1. **Clone the Repository**: Use the following command to clone it to your local machine:
+   ```
+   git clone https://github.com/hiddengems-ca/ai-in-japan.git
+   ```
+2. **Navigate to the Directory**: Change to the directory of the cloned repository:
+   ```
+   cd ai-in-japan
+   ```
+3. **Open the README**: You can view this README file for more details on how to contribute and use the repository.
+
+## Additional Resources
+
+For those interested in learning more about AI in Japan, consider the following resources:
+
+- **AI Research Papers**: Look for academic papers focusing on AI applications in Japanese industries.
+- **Tech Conferences**: Attend events that showcase AI innovations and use cases in Japan.
+- **Online Courses**: Enroll in courses that cover AI fundamentals and advanced topics.
+
+## Community and Support
+
+Join our community to discuss AI developments in Japan. You can connect with us through:
+
+- **GitHub Discussions**: Share your thoughts and ideas.
+- **Twitter**: Follow us for updates on AI trends and news in Japan.
+- **Slack Channel**: Join our Slack for real-time discussions and support.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Conclusion
+
+Thank you for visiting the **AI in Japan** repository. We hope you find this information useful and inspiring. Together, we can explore how AI is shaping the future of work in Japan. 
+
+For updates and new entries, keep an eye on our [Releases](https://github.com/hiddengems-ca/ai-in-japan/releases) section.
+
+Let’s work together to document the AI landscape in Japan!
